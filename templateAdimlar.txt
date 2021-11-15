@@ -1,0 +1,4 @@
+1) src içerisine template diye bir klasör açtım
+2) index.html e ana css lerimi yükledim
+3) tepeden componentlerimi oluşturmaya başladım ve html i jsx e çevirip yerleştirdim
+NOT: resimler bende olmadığı için başına https://www.w3schools.com/ koydum

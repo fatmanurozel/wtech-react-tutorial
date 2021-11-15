@@ -1,14 +1,19 @@
-import Header from "./Header";
-import Navbar from "./Navbar";
 
+import Footer from './template-1/Footer'
+import Header from './template-1/Header'
+import Navbar from './template-1/Navbar'
+import PageContent from './template-1/PageContent'
 
 
 function App() {
 
   return (
     <>
-      <Header></Header>
       <Navbar></Navbar>
+      <Header></Header>
+      <PageContent></PageContent>
+      <Footer></Footer>
+
     </>
 
   );
