@@ -1,0 +1,12 @@
+1) 3 tane string değer tanımla. Spanlar içerisine yazdır
+
+2)  Bir product objesi tanımla. name(string), price(number), unitsInStock(number) ve status(bool) 
+Bu product objesini spanlar içerisinde göster. Eğer product status true ise bir tane spana "Ürün mevcut" değilse "Stokta yok" yazsın
+
+3) Ekrana bir ul li koy. product name leri li de göster!!!!
+
+4) Ekranda 5 kolonlu bir tablo yap. Id, Name, UnitPrice, unitsInStock, categoryId olsun. Bunları yazdır
+
+* Name leri büyük yazdır
+*** KDV adında bir kolon daha aç. Oraya 1.18 ile çarpılmış halini yazdır.
+

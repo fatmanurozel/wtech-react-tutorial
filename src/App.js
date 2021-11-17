@@ -9,6 +9,7 @@ import Navbar from './template-1/Navbar'
 import PageContent from './template-1/PageContent'
 import JsxMapSample3 from './jsxSample/JsxMapSample3'
 import JsxMapSample4 from './jsxSample/JsxMapSample4'
+import JsxMapSample5 from './jsxSample/JsxMapSample5'
 
 
 
@@ -27,9 +28,9 @@ function App() {
       {/* <JsxSample3></JsxSample3> */}
       {/* <JsxSample4></JsxSample4> */}
       {/* <JsxMapSample3></JsxMapSample3> */}
-      <JsxMapSample4></JsxMapSample4>
-      
+      {/* <JsxMapSample4></JsxMapSample4> */}
 
+      <JsxMapSample5></JsxMapSample5>
     </>
 
   );
